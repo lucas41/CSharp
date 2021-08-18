@@ -1,0 +1,6 @@
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\P13 - For encadeado\bin\Debug\P13 - For encadeado.exe.config
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\P13 - For encadeado\bin\Debug\P13 - For encadeado.exe
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\P13 - For encadeado\bin\Debug\P13 - For encadeado.pdb
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\P13 - For encadeado\obj\Debug\P13 - For encadeado.csproj.CoreCompileInputs.cache
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\P13 - For encadeado\obj\Debug\P13 - For encadeado.exe
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\P13 - For encadeado\obj\Debug\P13 - For encadeado.pdb
