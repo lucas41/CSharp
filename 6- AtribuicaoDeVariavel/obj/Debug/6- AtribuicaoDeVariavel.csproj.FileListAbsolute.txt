@@ -1,0 +1,6 @@
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\6- AtribuicaoDeVariavel\bin\Debug\6- AtribuicaoDeVariavel.exe.config
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\6- AtribuicaoDeVariavel\bin\Debug\6- AtribuicaoDeVariavel.exe
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\6- AtribuicaoDeVariavel\bin\Debug\6- AtribuicaoDeVariavel.pdb
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\6- AtribuicaoDeVariavel\obj\Debug\6- AtribuicaoDeVariavel.csproj.CoreCompileInputs.cache
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\6- AtribuicaoDeVariavel\obj\Debug\6- AtribuicaoDeVariavel.exe
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\6- AtribuicaoDeVariavel\obj\Debug\6- AtribuicaoDeVariavel.pdb

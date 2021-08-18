@@ -1,0 +1,7 @@
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\5- CaracteresETextos\bin\Debug\5- CaracteresETextos.exe.config
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\5- CaracteresETextos\bin\Debug\5- CaracteresETextos.exe
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\5- CaracteresETextos\bin\Debug\5- CaracteresETextos.pdb
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\5- CaracteresETextos\obj\Debug\5- CaracteresETextos.csproj.AssemblyReference.cache
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\5- CaracteresETextos\obj\Debug\5- CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\5- CaracteresETextos\obj\Debug\5- CaracteresETextos.exe
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\5- CaracteresETextos\obj\Debug\5- CaracteresETextos.pdb

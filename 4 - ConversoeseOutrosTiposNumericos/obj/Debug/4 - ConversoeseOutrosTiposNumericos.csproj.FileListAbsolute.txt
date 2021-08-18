@@ -1,0 +1,6 @@
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\4 - ConversoeseOutrosTiposNumericos\bin\Debug\4 - ConversoeseOutrosTiposNumericos.exe.config
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\4 - ConversoeseOutrosTiposNumericos\bin\Debug\4 - ConversoeseOutrosTiposNumericos.exe
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\4 - ConversoeseOutrosTiposNumericos\bin\Debug\4 - ConversoeseOutrosTiposNumericos.pdb
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\4 - ConversoeseOutrosTiposNumericos\obj\Debug\4 - ConversoeseOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\4 - ConversoeseOutrosTiposNumericos\obj\Debug\4 - ConversoeseOutrosTiposNumericos.exe
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\4 - ConversoeseOutrosTiposNumericos\obj\Debug\4 - ConversoeseOutrosTiposNumericos.pdb

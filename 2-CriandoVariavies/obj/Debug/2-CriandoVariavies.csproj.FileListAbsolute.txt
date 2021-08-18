@@ -1,0 +1,7 @@
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\2-CriandoVariavies\bin\Debug\2-CriandoVariavies.exe.config
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\2-CriandoVariavies\bin\Debug\2-CriandoVariavies.exe
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\2-CriandoVariavies\bin\Debug\2-CriandoVariavies.pdb
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\2-CriandoVariavies\obj\Debug\2-CriandoVariavies.csproj.AssemblyReference.cache
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\2-CriandoVariavies\obj\Debug\2-CriandoVariavies.csproj.CoreCompileInputs.cache
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\2-CriandoVariavies\obj\Debug\2-CriandoVariavies.exe
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\2-CriandoVariavies\obj\Debug\2-CriandoVariavies.pdb
