@@ -1,0 +1,7 @@
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\extraCalculadora\bin\Debug\extraCalculadora.exe.config
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\extraCalculadora\bin\Debug\extraCalculadora.exe
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\extraCalculadora\bin\Debug\extraCalculadora.pdb
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\extraCalculadora\obj\Debug\extraCalculadora.csproj.AssemblyReference.cache
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\extraCalculadora\obj\Debug\extraCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\extraCalculadora\obj\Debug\extraCalculadora.exe
+C:\Users\delfi\source\repos\AprendendoCSharp\CSharp\extraCalculadora\obj\Debug\extraCalculadora.pdb
