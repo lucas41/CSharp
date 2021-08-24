@@ -29,7 +29,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12 - CalculaInvestimentoLo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P13 - For encadeado", "P13 - For encadeado\P13 - For encadeado.csproj", "{FEB84909-FD1E-4ADB-BC03-8B917750302E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "extraCalculadora", "extraCalculadora\extraCalculadora.csproj", "{6A95D455-33EB-4D84-80F5-2C46237CFC42}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pextraCalculadora", "extraCalculadora\pextraCalculadora.csproj", "{6A95D455-33EB-4D84-80F5-2C46237CFC42}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
