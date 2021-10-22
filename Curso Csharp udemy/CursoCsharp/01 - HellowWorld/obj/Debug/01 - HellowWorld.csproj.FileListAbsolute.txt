@@ -1,0 +1,7 @@
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\01 - HellowWorld\bin\Debug\01 - HellowWorld.exe.config
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\01 - HellowWorld\bin\Debug\01 - HellowWorld.exe
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\01 - HellowWorld\bin\Debug\01 - HellowWorld.pdb
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\01 - HellowWorld\obj\Debug\01 - HellowWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\01 - HellowWorld\obj\Debug\01 - HellowWorld.csproj.CoreCompileInputs.cache
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\01 - HellowWorld\obj\Debug\01 - HellowWorld.exe
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\01 - HellowWorld\obj\Debug\01 - HellowWorld.pdb

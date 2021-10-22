@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6342fa7a-899b-4926-9ce9-842952a9f4f8": {
+      "ProjectGuid": "6342fa7a-899b-4926-9ce9-842952a9f4f8",
+      "DisplayName": "CursoCsharp",
+      "ColorIndex": 0
+    },
+    "4704693c-8a53-41f4-94af-79e2197877a0": {
+      "ProjectGuid": "4704693c-8a53-41f4-94af-79e2197877a0",
+      "DisplayName": "01 - HellowWorld",
+      "ColorIndex": 1
+    },
+    "5182ac0a-9942-42ba-99c7-599ac2752ba0": {
+      "ProjectGuid": "5182ac0a-9942-42ba-99c7-599ac2752ba0",
+      "DisplayName": "02 - variaveis",
+      "ColorIndex": 2
+    },
+    "990ef1e6-17a3-46f5-a63c-03e88c6c7594": {
+      "ProjectGuid": "990ef1e6-17a3-46f5-a63c-03e88c6c7594",
+      "DisplayName": "03 - constante",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
