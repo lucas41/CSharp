@@ -1,0 +1,8 @@
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\04 - capturando dados\bin\Debug\04 - capturando dados.exe.config
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\04 - capturando dados\bin\Debug\04 - capturando dados.exe
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\04 - capturando dados\bin\Debug\04 - capturando dados.pdb
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\04 - capturando dados\obj\Debug\04 - capturando dados.csproj.AssemblyReference.cache
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\04 - capturando dados\obj\Debug\04 - capturando dados.csproj.SuggestedBindingRedirects.cache
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\04 - capturando dados\obj\Debug\04 - capturando dados.csproj.CoreCompileInputs.cache
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\04 - capturando dados\obj\Debug\04 - capturando dados.exe
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\04 - capturando dados\obj\Debug\04 - capturando dados.pdb

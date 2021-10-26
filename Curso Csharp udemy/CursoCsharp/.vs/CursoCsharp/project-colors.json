@@ -20,7 +20,32 @@
       "ProjectGuid": "990ef1e6-17a3-46f5-a63c-03e88c6c7594",
       "DisplayName": "03 - constante",
       "ColorIndex": 3
+    },
+    "b29c2f87-20be-410d-8e75-623269176104": {
+      "ProjectGuid": "b29c2f87-20be-410d-8e75-623269176104",
+      "DisplayName": "04 - capturando dados",
+      "ColorIndex": 4
+    },
+    "e07aadb1-501e-4c4a-9ec6-0147c2815978": {
+      "ProjectGuid": "e07aadb1-501e-4c4a-9ec6-0147c2815978",
+      "DisplayName": "05 - OperadoresAritimeticos",
+      "ColorIndex": 5
+    },
+    "d385415a-8594-4d22-8095-09cf6e8e9e2e": {
+      "ProjectGuid": "d385415a-8594-4d22-8095-09cf6e8e9e2e",
+      "DisplayName": "06 - condicionais",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "fd8438e3-82c4-4ff1-8863-07fe0b414453": {
+      "ProjectGuid": "fd8438e3-82c4-4ff1-8863-07fe0b414453",
+      "DisplayName": "06 - OperadoLogico",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 8
 }

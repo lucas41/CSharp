@@ -1,0 +1,7 @@
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\OperadoresAritimeticos\bin\Debug\OperadoresAritimeticos.exe.config
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\OperadoresAritimeticos\bin\Debug\OperadoresAritimeticos.exe
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\OperadoresAritimeticos\bin\Debug\OperadoresAritimeticos.pdb
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\OperadoresAritimeticos\obj\Debug\05 - OperadoresAritimeticos.csproj.SuggestedBindingRedirects.cache
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\OperadoresAritimeticos\obj\Debug\05 - OperadoresAritimeticos.csproj.CoreCompileInputs.cache
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\OperadoresAritimeticos\obj\Debug\OperadoresAritimeticos.exe
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\OperadoresAritimeticos\obj\Debug\OperadoresAritimeticos.pdb

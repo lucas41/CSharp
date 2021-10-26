@@ -1,0 +1,7 @@
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\06 - OperadoLogico\bin\Debug\06 - OperadoLogico.exe.config
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\06 - OperadoLogico\bin\Debug\06 - OperadoLogico.exe
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\06 - OperadoLogico\bin\Debug\06 - OperadoLogico.pdb
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\06 - OperadoLogico\obj\Debug\06 - OperadoLogico.csproj.SuggestedBindingRedirects.cache
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\06 - OperadoLogico\obj\Debug\06 - OperadoLogico.csproj.CoreCompileInputs.cache
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\06 - OperadoLogico\obj\Debug\06 - OperadoLogico.exe
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\06 - OperadoLogico\obj\Debug\06 - OperadoLogico.pdb
