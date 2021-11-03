@@ -1,0 +1,8 @@
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\Funcao\bin\Debug\Funcao.exe.config
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\Funcao\bin\Debug\Funcao.exe
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\Funcao\bin\Debug\Funcao.pdb
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\Funcao\obj\Debug\07 - Funcao.csproj.AssemblyReference.cache
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\Funcao\obj\Debug\07 - Funcao.csproj.SuggestedBindingRedirects.cache
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\Funcao\obj\Debug\07 - Funcao.csproj.CoreCompileInputs.cache
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\Funcao\obj\Debug\Funcao.exe
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\Funcao\obj\Debug\Funcao.pdb

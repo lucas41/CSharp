@@ -45,7 +45,22 @@
       "ProjectGuid": "fd8438e3-82c4-4ff1-8863-07fe0b414453",
       "DisplayName": "06 - OperadoLogico",
       "ColorIndex": 7
+    },
+    "284ae72c-063e-46ea-b34a-5d532da822c3": {
+      "ProjectGuid": "284ae72c-063e-46ea-b34a-5d532da822c3",
+      "DisplayName": "07 - Funcao",
+      "ColorIndex": 8
+    },
+    "93f4a903-6365-49a5-bd42-3e1bdbda2633": {
+      "ProjectGuid": "93f4a903-6365-49a5-bd42-3e1bdbda2633",
+      "DisplayName": "08 - Array",
+      "ColorIndex": 9
+    },
+    "a53a1bfa-ad81-4b6f-8c38-9251dab79c2d": {
+      "ProjectGuid": "a53a1bfa-ad81-4b6f-8c38-9251dab79c2d",
+      "DisplayName": "09 - switch",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 11
 }

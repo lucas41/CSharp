@@ -1,0 +1,8 @@
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\09 - switch\obj\Debug\09 - switch.csproj.AssemblyReference.cache
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\09 - switch\obj\Debug\09 - switch.csproj.SuggestedBindingRedirects.cache
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\09 - switch\obj\Debug\09 - switch.csproj.CoreCompileInputs.cache
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\09 - switch\bin\Debug\09 - switch.exe.config
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\09 - switch\bin\Debug\09 - switch.exe
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\09 - switch\bin\Debug\09 - switch.pdb
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\09 - switch\obj\Debug\09 - switch.exe
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\09 - switch\obj\Debug\09 - switch.pdb

@@ -1,0 +1,8 @@
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\08 - Array\bin\Debug\08 - Array.exe.config
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\08 - Array\bin\Debug\08 - Array.exe
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\08 - Array\bin\Debug\08 - Array.pdb
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\08 - Array\obj\Debug\08 - Array.csproj.AssemblyReference.cache
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\08 - Array\obj\Debug\08 - Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\08 - Array\obj\Debug\08 - Array.csproj.CoreCompileInputs.cache
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\08 - Array\obj\Debug\08 - Array.exe
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\08 - Array\obj\Debug\08 - Array.pdb
