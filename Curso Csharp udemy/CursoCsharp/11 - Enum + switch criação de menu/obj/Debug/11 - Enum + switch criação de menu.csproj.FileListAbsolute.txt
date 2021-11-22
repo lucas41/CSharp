@@ -1,0 +1,7 @@
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\11 - Enum + switch criação de menu\bin\Debug\11 - Enum + switch criação de menu.exe.config
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\11 - Enum + switch criação de menu\bin\Debug\11 - Enum + switch criação de menu.exe
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\11 - Enum + switch criação de menu\bin\Debug\11 - Enum + switch criação de menu.pdb
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\11 - Enum + switch criação de menu\obj\Debug\11 - Enum + switch criação de menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\11 - Enum + switch criação de menu\obj\Debug\11 - Enum + switch criação de menu.csproj.CoreCompileInputs.cache
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\11 - Enum + switch criação de menu\obj\Debug\11 - Enum + switch criação de menu.exe
+C:\Users\delfi\OneDrive\Documentos\GitHub\CSharp\Curso Csharp udemy\CursoCsharp\11 - Enum + switch criação de menu\obj\Debug\11 - Enum + switch criação de menu.pdb

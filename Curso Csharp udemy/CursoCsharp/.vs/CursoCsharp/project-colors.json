@@ -60,7 +60,37 @@
       "ProjectGuid": "a53a1bfa-ad81-4b6f-8c38-9251dab79c2d",
       "DisplayName": "09 - switch",
       "ColorIndex": 10
+    },
+    "abc74b62-ad73-46dc-81f3-d8ef516b5b4f": {
+      "ProjectGuid": "abc74b62-ad73-46dc-81f3-d8ef516b5b4f",
+      "DisplayName": "11 - Enum + switch criação de menu",
+      "ColorIndex": 11
+    },
+    "f7fcbb46-9faa-4916-b9dd-37525870cfca": {
+      "ProjectGuid": "f7fcbb46-9faa-4916-b9dd-37525870cfca",
+      "DisplayName": "10 - Enum",
+      "ColorIndex": 12
+    },
+    "2731c6a9-8994-4883-976b-687d10c8bf5a": {
+      "ProjectGuid": "2731c6a9-8994-4883-976b-687d10c8bf5a",
+      "DisplayName": "12 - while",
+      "ColorIndex": 13
+    },
+    "a1df7096-eefb-40ec-b654-29bd5de8d5bf": {
+      "ProjectGuid": "a1df7096-eefb-40ec-b654-29bd5de8d5bf",
+      "DisplayName": "13 - Do while",
+      "ColorIndex": 14
+    },
+    "9eca010f-5ece-4f9e-867c-884417e40928": {
+      "ProjectGuid": "9eca010f-5ece-4f9e-867c-884417e40928",
+      "DisplayName": "14 - Foreach",
+      "ColorIndex": 15
+    },
+    "e11946f0-6e90-46af-803b-06e9a6f98438": {
+      "ProjectGuid": "e11946f0-6e90-46af-803b-06e9a6f98438",
+      "DisplayName": "15 - For",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 1
 }
