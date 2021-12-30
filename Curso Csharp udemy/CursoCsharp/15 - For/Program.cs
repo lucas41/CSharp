@@ -13,7 +13,7 @@ namespace _15___For
 
             // For significa PARA
 
-            string[] nomes = { "lucas", "joão", "josé", "victor" };
+            string[] nomes = { "lucas", "joão", "evely", "victor" };
 
 
             for (int contador = 0; contador < nomes.Length; contador++) // todo o bloco de comando fica de forma enxuta 
